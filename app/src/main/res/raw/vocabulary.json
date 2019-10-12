@@ -1,0 +1,84 @@
+{
+  "words": [
+    {
+      "word": "culpable",
+      "means": "deserving blame or censure as being wrong or injurious",
+	  "star": 0
+    },
+    {
+      "word": "loathsome",
+      "means": "highly offensive; arousing aversion or disgust",
+	  "star": 0
+    },
+	{
+      "word": "snicker",
+      "means": "laugh quietly",
+	  "star": 0
+    },
+	{
+      "word": "wistful",
+      "means": "showing pensive sadness",
+	  "star": 0
+    },
+	{
+      "word": "recrimination",
+      "means": "mutual accusations",
+	  "star": 0
+    },
+	{
+      "word": "gaunt",
+      "means": "very thin especially from disease or hunger or cold",
+	  "star": 0
+    },
+	{
+      "word": "subdued",
+      "means": "quieted and brought under control",
+	  "star": 0
+    },
+	{
+      "word": "hijab",
+      "means": "a headscarf worn by Muslim women",
+	  "star": 0
+    },
+	{
+      "word": "coup",
+      "means": "a sudden and decisive change of government by force",
+	  "star": 0
+    },
+	{
+      "word": "malfunction",
+      "means": "fail to work properly",
+	  "star": 0
+    },
+	{
+      "word": "freeware",
+      "means": "software that is provided without charge",
+	  "star": 0
+    },
+	{
+      "word": "shareware",
+      "means": "software that is available free of charge; may be distributed for evaluation with a fee requested for additional features or a manual etc",
+	  "star": 0
+    },
+	{
+      "word": "upgrade",
+      "means": "software that provides better performance than an earlier version did",
+	  "star": 0
+    },
+	{
+      "word": "bitcoin",
+      "means": "a system of open source peer-to-peer software for the creation and exchange of (payment in) a certain type of cryptocurrency; the first such system to be fully functional",
+	  "star": 0
+    },
+	{
+      "word": "bite",
+      "means": "To cut, grip, or tear with or as if with the teeth",
+	  "star": 0
+    },
+	{
+      "word": "offspring",
+      "means": "A child or children of a parent or parents",
+	  "star": 0
+    }
+  ]
+}
